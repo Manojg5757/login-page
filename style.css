@@ -19,10 +19,11 @@ h1{
     width: 100%;
     padding: 5px;
     margin: 10px 0;
-    border-radius: 5px;
+    border-radius: 12px;
     font-size: 1.2em;
     box-sizing: border-box;
     outline: none;
+    border: none;
 }
 .inp:focus{
     background: rgb(37, 209, 240);
@@ -45,9 +46,10 @@ h1{
     box-sizing: border-box;
     border-radius: 10px;
     padding: 5px;
-    background: rgb(234, 171, 171);
+    background: rgb(9, 58, 97);
     border: none;
     transition: 0.5s ease-in-out;
+    color: white;
     
 }
 .register:hover{
